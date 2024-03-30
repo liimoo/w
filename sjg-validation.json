@@ -4,5 +4,5 @@
 "discordId":"le_oram",
 "pool-list":"true",
 "poolMetaData":"https://raw.githubusercontent.com/liimoo/w/main/pm.json",
-"validation":"https://xstakepool.com/sjg-validation.json"
+"validation":"https://raw.githubusercontent.com/liimoo/w/main/sjg-validation.json"
 }
