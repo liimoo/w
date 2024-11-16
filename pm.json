@@ -1,9 +1,9 @@
-{                                                                                                                      
-    "name": "0% Fee + 170ADA⭐LIMO⭐Staking⭐Welcome",                                                                 
-    "description": "Hello! Until at least January 2026, the commission will be 0% and the fixed fee will be the lowest 170 ADA. After that, we plan to keep fees as low as possible. Let's make Cardano exciting together!",
+{
+    "name": "0% Fee + 170ADA⭐LIMO⭐Staking⭐Welcome",
+    "description": "Hello! LIMO pool has 0% commission and the lowest fixed cost is 170 ADA. Let's make Cardano exciting together!",
     "ticker": "LIMO",
-    "homepage": "https://limo-staking.com",                                                                            
+    "homepage": "https://limo-staking.com",
     "extended": "",
-    "nonce":"1731764622",                                                                                              
-    "test-cexplorer-2":"e5e2d08a49f576d70e"                                                                            
+    "nonce":"1731764622",
+    "test-cexplorer-2":"e5e2d08a49f576d70e"
 }
